@@ -4,4 +4,4 @@
 // Divides the CPU intensive workloads between multiple threads.
 
 
-// initiate a worker thread
+// initiate a worker thread and a cluster in node.js
